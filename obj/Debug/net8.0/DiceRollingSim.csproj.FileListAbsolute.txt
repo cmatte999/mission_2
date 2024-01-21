@@ -1,0 +1,14 @@
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\bin\Debug\net8.0\DiceRollingSim.exe
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\bin\Debug\net8.0\DiceRollingSim.deps.json
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\bin\Debug\net8.0\DiceRollingSim.runtimeconfig.json
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\bin\Debug\net8.0\DiceRollingSim.dll
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\bin\Debug\net8.0\DiceRollingSim.pdb
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\obj\Debug\net8.0\DiceRollingSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\obj\Debug\net8.0\DiceRollingSim.AssemblyInfoInputs.cache
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\obj\Debug\net8.0\DiceRollingSim.AssemblyInfo.cs
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\obj\Debug\net8.0\DiceRollingSim.csproj.CoreCompileInputs.cache
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\obj\Debug\net8.0\DiceRollingSim.dll
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\obj\Debug\net8.0\refint\DiceRollingSim.dll
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\obj\Debug\net8.0\DiceRollingSim.pdb
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\obj\Debug\net8.0\DiceRollingSim.genruntimeconfig.cache
+C:\Users\carolinamatte\source\repos\DiceRollingSim\DiceRollingSim\obj\Debug\net8.0\ref\DiceRollingSim.dll
